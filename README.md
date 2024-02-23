@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...   --->
-<img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" height="230" width="270" align="right"
+<img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" height="230" width="270" align="right">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgneeshG&bg_color=d1ddff&color=2a3909&line=635cc7&point=b1acb9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
